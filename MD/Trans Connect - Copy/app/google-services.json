@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776274628233",
+    "project_id": "transconnect-9f86e",
+    "storage_bucket": "transconnect-9f86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776274628233:android:4b08e1c970292771968058",
+        "android_client_info": {
+          "package_name": "com.example.transconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776274628233-dpa23p3176psspq03k4bi69bh4rjqslv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASggyETs3kg9EvkhcKuXdop7Cs-bMl5zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776274628233-dpa23p3176psspq03k4bi69bh4rjqslv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
